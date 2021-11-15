@@ -1,0 +1,13 @@
+.table {
+    width: 500px;
+    height: 200px;
+  }
+  
+  .table-header {
+    background-color:aqua;
+  }
+  
+  .button-del {
+    background-color: rgba(104, 31, 31, 0.671);
+  }
+  .container{background-color:aqua};
